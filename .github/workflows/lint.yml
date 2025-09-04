@@ -1,10 +1,10 @@
 name: lint
 
 on:
-    push:
+  push:
     branches:
       - main
-orkflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   textlint:
