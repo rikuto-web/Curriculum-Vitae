@@ -1,8 +1,10 @@
 name: lint
 
 on:
-  pull_request:
-  workflow_dispatch:
+    push:
+    branches:
+      - main
+orkflow_dispatch:
 
 jobs:
   textlint:
