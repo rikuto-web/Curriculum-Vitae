@@ -1,0 +1,36 @@
+{
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "ja-no-abusage": true,
+    "ja-no-redundant-expression": true,
+    "no-doubled-conjunction": true,
+    "no-doubled-conjunctive-particle-ga": true,
+    "no-doubled-joshi": true,
+    "no-double-negative-ja": true,
+    "no-dropping-the-ra": true,
+    "prefer-tari-tari": true,
+    "rousseau": {
+      "showLevels": [
+        "warning",
+        "error"
+      ],
+      "ignoreTypes": [
+        "adverbs",
+        "readibility",
+        "sentence:start",
+        "sentence:uppercase"
+      ]
+    },
+    "terminology": {
+      "defaultTerms": true
+    },
+    "@textlint-ja/textlint-rule-no-dropping-i": true,
+    "@textlint-ja/textlint-rule-no-insert-dropping-sa": true,
+    "@textlint-rule/no-unmatched-pair": true,
+    "@proofdict/proofdict": {
+      "dictURL": "https://azu.github.io/proof-dictionary/"
+    }
+  }
+}
