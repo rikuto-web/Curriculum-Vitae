@@ -44,9 +44,9 @@
 Revox
 
 **ポートフォリオURL**
-デプロイリンク https://rikuto-web.github.io/revox_frontend
+[デプロイリンク](https://rikuto-web.github.io/revox_frontend)
 
-GitHubリンク https://github.com/rikuto-web/revox
+[GitHubリンク](https://github.com/rikuto-web/revox)
 
 **プロダクト概要**
 バイクの整備履歴や部品情報を管理できるWebアプリ。
