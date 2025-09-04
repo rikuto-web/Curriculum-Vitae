@@ -190,7 +190,7 @@ Java / Spring Boot / PostgreSQL / Docker / Google GenAI / Git / GitHub / JUnit 5
 
 ---
 
-###　新小文字病院　正社員勤務
+### 新小文字病院　正社員勤務
 
 - 事業内容：急性期医療を担う急性期病院
 - 従業員数：約650〜700名
